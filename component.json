@@ -1,0 +1,9 @@
+{
+  "name": "param",
+  "description": "Param",
+  "development": {},
+  "main": "param.js",
+  "scripts": [
+    "param.js"
+  ]
+}
